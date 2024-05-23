@@ -7,10 +7,9 @@ Day number 1
 I have understand the only one function - and it is PRINT. :) 
 Day number 2
 i've modified a bit the execsise and insted of only weeks calculation the code now calculate the months as well
-
 age = input()
-# 🚨 Don't change the code above 👆
-# Write your code below this line 👇
+**# 🚨 Don't change the code above 👆**
+**# Write your code below this line 👇**
 years = 90 - int(age)
 weeks = years * 52
 month = years * 12
